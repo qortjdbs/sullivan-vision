@@ -4,10 +4,9 @@
 
 <img src = "ISEF_POSTER.png"></img>
 
-<br>
 
 <body>
-    <p><strong>Abstract</strong></p>
+    <p><strong><h3>Abstract</h3></strong></p>
     <p>
         Globally, more than 2.2 billion people suffer from visual impairment, according to the World Health Organization (WHO). Communication is an essential aspect of everyday life, and for visually impaired individuals, interpreting emotions during conversations can be a challenge. Our project aims to develop an emotion recognition device that can benefit visually impaired individuals in their conversations. We have integrated effective speech emotion recognition (SER) and facial expression recognition (FER) models with portable hardware to enable real-time emotion interpretation during discussions.
     </p>
